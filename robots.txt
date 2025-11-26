@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caalvarez839-sketch.github.io/1Ingenier-a-Civil-Rosa-Victoria-Hoyos-Hoyos/sitemap.xml
